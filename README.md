@@ -41,10 +41,8 @@
 
 ### 🧩 Featured Projects
 
-- **Phishing Attack Case Study (MyFitnessPal)** – Analyzed phishing techniques and built a structured vulnerability analysis report  
-- **Vulnerability Analysis Labs** – Conducted scans with **Nessus**, exploits with **Metasploit**, and patch-testing simulations  
 - **Hospital Management System** – Full-stack solution for patient and appointment management  
-- **Renewable Energy Simulations** – Explored biomass and geothermal systems for sustainable applications  
+- **Gym Website** – Full-stack solution for gym  
 
 ---
 
